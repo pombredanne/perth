@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 long_description = """\
 Wrapper for `threading.local` with enhanced value accessor.
 
-See detail @ http://github.com/tomokinakamaru/perth.
+See detail at http://github.com/tomokinakamaru/perth.
 
 Copyright (c) 2015, Tomoki Nakamaru.
 
@@ -22,7 +22,7 @@ setup(
         "Programming Language :: Python",
         'Topic :: Software Development :: Libraries :: Python Modules'
     ],
-    description='',
+    description='Wrapper for `threading.local` with enhanced value accessor',
     license='MIT',
     long_description=long_description,
     name='perth',
